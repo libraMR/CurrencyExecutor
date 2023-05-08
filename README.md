@@ -16,7 +16,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.libraMR:CurrencyExecutor:master-SNAPSHOT'
+	        implementation 'com.github.libraMR:CurrencyExecutor:-SNAPSHOT'
 	}
 ---
 ## 1.处理无需返回结果的任务 
